@@ -1,10 +1,6 @@
 # Shokhrukh Turaev
 
----
-
 ## Junior Front-End Developer
-
----
 
 ## Contact Information
 
