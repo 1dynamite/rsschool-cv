@@ -53,3 +53,13 @@ function peak(arr) {
   return -1;
 }
 ```
+
+---
+
+## Languages
+
+* English - IELTS overall score of 8.0
+
+* Uzbek - Native
+
+* Russian - Intermediate
