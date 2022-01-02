@@ -1,0 +1,65 @@
+.header {
+  display: flex;
+}
+
+.avatar {
+  width: 15rem;
+}
+
+.contact-info {
+  list-style-type: none;
+}
+
+.icons {
+  margin-right: 0.5rem;
+}
+
+.nav {
+  position: fixed;
+  top: -1.5rem;
+  left: 0;
+  width: 20%;
+  padding-top: 3rem;
+  padding-right: 3rem;
+}
+
+.main-body {
+  width: 80%;
+}
+
+.parent-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.nav-li {
+  padding-bottom: 0.5rem;
+  list-style-type: none;
+}
+
+.nav-a {
+  padding: 0.5rem;
+  text-decoration: none;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.summary-container,
+.education-container,
+.code-container,
+.languages-container {
+  padding: 1rem;
+  background-color: whitesmoke;
+}
+
+.summary-a,
+.education-a,
+.code-a,
+.languages-a {
+  background-color: whitesmoke;
+}
+
